@@ -10,4 +10,4 @@ cabal run
 ```
 
 ## Challenge
-see the original [PDF](doc/sinbad-the-sailor.pdf) of the challenge.
+For a copy of the original challenge see this [PDF](doc/sinbad-the-sailor.pdf). Source: https://cpbook.net/methodstosolve.
